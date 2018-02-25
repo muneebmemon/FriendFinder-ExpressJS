@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder-expressjs",
+  "version": "1.0.0",
+  "description": "Friend Finder app using Express.js and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muneebmemon/FriendFinder-ExpressJS.git"
+  },
+  "author": "Mohammad Muneeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muneebmemon/FriendFinder-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/muneebmemon/FriendFinder-ExpressJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
