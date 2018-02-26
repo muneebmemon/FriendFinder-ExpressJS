@@ -1,0 +1,34 @@
+h2, #surveyLink, .container {
+    text-align: center;
+    color: #fff;
+}
+
+.container p a {
+    color: #fff;
+}
+
+#surveyContainer, .container h1, .container h2, .container h4 {
+    text-align: left;
+}
+
+.modal-dialog {
+    text-align: center;    
+}
+
+.modal-content {
+    background-color: gray
+}
+
+h1 {
+    text-align: center;
+    display: inline;
+    color: #fff;
+}
+
+body {
+    background-image: url('/images/pinkdust.png');
+}
+
+.jumbotron {
+    background-color: dimgray;
+}
