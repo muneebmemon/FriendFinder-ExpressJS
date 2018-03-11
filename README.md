@@ -20,3 +20,16 @@ This full-stack site will take in results from users' surveys, then compare thei
 - Displaying match
 
 ![Survey](/public/images/surveyimgfour.png)
+
+## Technologies used
+
+- Node.js
+- Express.js
+- Handlebars as templating engine
+- MySQL
+- MySQL NPM Package
+- Javascript
+- JQuery
+- HTML
+- CSS
+- Bootstrap
